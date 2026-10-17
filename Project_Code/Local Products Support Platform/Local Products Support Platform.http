@@ -1,0 +1,6 @@
+@Local_Products_Support_Platform_HostAddress = http://localhost:5023
+
+GET {{Local_Products_Support_Platform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
